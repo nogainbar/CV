@@ -27,6 +27,7 @@ Rhino |
 
 * [Breathe with me mobile app](breathewithme.co.uk) - Design and code
 * [Down to earth - Quaker social action](https://quaker-social-action.github.io/dte-website/public/) - Design and code
+* [CouchSafe - an MVP for a Hackathon promoting LGBTQ equality]( http://couchsafe.herokuapp.com) - design and code
 * [nogainbar.com - personal Art website](www.nogainbar.com) - design
 * National Ugly Mugs CMS - design and code of a Content Mangement System for internal office use
 * What Technology - Logo and branding
