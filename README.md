@@ -6,7 +6,7 @@ I write HTML5, CSS3 and Javascript and I am fluent with various design tools suc
 
 I aspire to become a great UX and UI designer who also understand code and is not afraid to interact with all the various parts of a project. I value learning and trying over predicting. I love learning about different approaches to user centred design.
 
-I am all about collaborating with others, sharing ideas and building creative communities.
+I am all about collaborating with others, sharing ideas and help building creative communities.
 
 
 ****
