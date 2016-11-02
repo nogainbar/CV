@@ -17,7 +17,7 @@ Sketch       |     CSS3       | 	jQuery	      |          Gulp  |
 Photoshop    |  Javascript	  | GreenSock      |  Webpack
 Indesign     | Node.js       | Bootstrap |
 Illustrator  |				| ReactJS |
-Figma        | | Materilize.css |
+Figma        | | Materialize.css |
 Craft        | | Material UI
 Invision     |
 Sketchup |
