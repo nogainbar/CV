@@ -1,10 +1,11 @@
 ##Noga Inbar - cv
 
-I am an Artist, designer and coder who loves making digital products. I write Html, css and Javascript and I am fluent with various design tools such as Sketch, Photoshop and Illustrator. I enjoy the entire proccess of design, from the initial conception to the meticolous composition of beautiful user interfaces. I am intrested in people, what they love and value. 
+I am an Artist, designer and coder who loves making digital products. I write Html, css and Javascript and I am fluent with various design tools such as Sketch, Photoshop and Illustrator. I enjoy the entire process of design, from the initial conception to the meticulous composition of beautiful user interfaces. I am interested in people, what they love and value.
 
 I aspire to become a great UX and UI designer who also understand code and is not afraid to interact with all the various parts of a project. I value learning and trying over predicting. I love learning about different approaches to user centred design.
 
-I am all about collaborating, sharing ideas and building creative communties.
+I am all about collaborating, sharing ideas and building creative communities.
+
 ****
 
 ###Skills
