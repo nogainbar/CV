@@ -38,7 +38,7 @@ Rhino |
 ###Education
 
 * 2016 -- Founders & Coders, 16 weeks coding bootcamp, London 
-* 2011 -- 2013 MA Scuplture (Distinction) - Royal College of Art, London
+* 2011 -- 2013 MA Sculpture (Distinction) - Royal College of Art, London
 * 2002 -- 2007 BA Fine Art (Hons) - NABA New Academy Fine Arts, Milan, Italy
 
 ***
