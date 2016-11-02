@@ -12,10 +12,10 @@ I am all about collaborating, sharing ideas and building creative communties.
 Design tools | Coding languages | Frameworks | Other tools   |
 :-----------:| :-----------: | :-----------: | :-----------: |
 Pen and paper !| HTML5       | SASS          |       Git     |  
-Sketch       |     CSS       | 	Jquery	      |          Gulp  |
+Sketch       |     CSS3       | 	jQuery	      |          Gulp  |
 Photoshop    |  Javascript	  | GreenSock      |  Webpack
 Indesign     | Node.js       | Bootstrap |
-Illustrator  |				| React.js |
+Illustrator  |				| ReactJS |
 Figma        | | Materilize.css |
 Craft        | | Material UI
 Invision     |
