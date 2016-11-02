@@ -46,6 +46,6 @@ Rhino |
 [Github](https://github.com/nogainbar) < >
 [Linkedin](https://uk.linkedin.com/in/noga-inbar-36828711) < >
 [Codewars](https://www.codewars.com/users/nogainbar) < >
-[Personal Art Website](www.nogainbar.com)
+[Personal Art Website](http://www.nogainbar.com/)
 
 
